@@ -50,7 +50,7 @@ n8n-automation-usecase/
 |------------|--------|----------|------------|
 | 🟢 Basic | [Linear Task Master](prompts/tiers/01-basic-linear-task-master.md) | Email categorization, notifications | 30 min |
 | 🟡 Intermediate | [Multi-Tool Orchestrator](prompts/tiers/02-intermediate-multi-tool.md) | Customer support, CRM updates | 2-4 hours |
-| 🔴 Advanced | [Autonomous Agent Empire](prompts/tiers/03-advanced-autonomous-empire.md) | RAG systems, research agents | 1-2 days |
+| 🔴 Advanced | [Autonomous Agent Empire](prompts/tiers/03-advanced-autonomous-empire.md) | research functions | 1-2 days |
 | 🔵 Meta | [Dynamic Builder](prompts/meta-prompts/dynamic-builder.md) | When you don't know where to start | Varies |
 
 ### 2. Copy the Prompt
