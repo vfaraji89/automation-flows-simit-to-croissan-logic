@@ -69,8 +69,8 @@
 │                                                                  │
 │   EXAMPLES:                                                      │
 │   • Manual data entry → Automated form processing               │
-│   • Weekly SEO report → Auto-generated dashboard                │
-│   • Email sorting → AI-powered categorization                   │
+│   • Weekly Sales report → Auto-generated dashboard                │
+│   • Text sorting → AI-powered categorization                   │
 │                                                                  │
 └─────────────────────────────────────────────────────────────────┘
 ```
