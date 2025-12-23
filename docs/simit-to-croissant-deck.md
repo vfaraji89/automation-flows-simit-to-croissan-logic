@@ -1,8 +1,7 @@
-# 🥯 The Simit-to-Croissant Framework
-## A Philosophy for Building AI Automation with n8n
+# 🥯 The Simit-to- Croissant Framework
+## A Philosophy for Building AI Automation
 
 > **Author:** Vahid Faraji  
-> **Version:** 1.0  
 > **Date:** December 2025
 
 ---
@@ -31,9 +30,9 @@
 │    ───────                                               ────────────       │
 │                                                                             │
 │    Simple                                                Sophisticated      │
-│    Local                        ────────────────▶        Global            │
-│    Immediate Need                                        Strategic Scale   │
-│    Quick Win                                             Enterprise-Ready  │
+│    One-time use             ────────────────>            Multiple use       │
+│    Immediate Need                                        Strategic Scale    │
+│    Quick Win                                             Enterprise-Ready   │
 │                                                                             │
 │                         YOUR AUTOMATION JOURNEY                             │
 │                                                                             │
@@ -92,10 +91,10 @@
 │               ╱    Sub-workflows, Agents    ╲                   │
 │              ╱───────────────────────────────╲                  │
 │             ╱     ⚙️ INTEGRATION LAYER       ╲                  │
-│            ╱      Multiple APIs, Databases    ╲                 │
+│            ╱      Multiple APIs              ╲                 │
 │           ╱───────────────────────────────────╲                │
-│          ╱        📊 DATA LAYER               ╲                │
-│         ╱         RAG, Vector Stores           ╲               │
+│          ╱        📊 Data LAYER               ╲                │
+│         ╱         Text,Spreadsheetn            ╲               │
 │        ╱─────────────────────────────────────────╲              │
 │       ╱           🧠 AI CORE                      ╲             │
 │      ╱            Agents, Memory, Reasoning        ╲            │
@@ -145,16 +144,16 @@
 │                                                                             │
 │                        THE AI-FIRST WORKFLOW                                │
 │                                                                             │
-│    ┌──────────┐      ┌──────────────┐      ┌──────────────┐                │
-│    │          │      │              │      │              │                │
-│    │  💡IDEA  │─────▶│  🤖 AI       │─────▶│  ⚙️ WORKING  │                │
-│    │          │      │   ASSISTANT  │      │   WORKFLOW   │                │
-│    └──────────┘      └──────────────┘      └──────────────┘                │
+│    ┌──────────┐      ┌──────────────┐      ┌──────────────┐                 │
+│    │          │      │              │      │              │                 │
+│    │  💡IDEA  │─────▶│  🤖 AI       │─────▶│  ⚙️ WORKING  │                 │
+│    │          │      │   ASSISTANT  │      │   WORKFLOW   │                 │
+│    └──────────┘      └──────────────┘      └──────────────┘                 │
 │                              │                                              │
 │                              ▼                                              │
 │                      ┌──────────────┐                                       │
 │                      │  📝 PROMPT   │                                       │
-│                      │  ENGINEERING │                                       │
+│                      │  Context │                                           │
 │                      └──────────────┘                                       │
 │                                                                             │
 └─────────────────────────────────────────────────────────────────────────────┘
