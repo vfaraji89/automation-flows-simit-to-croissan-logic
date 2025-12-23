@@ -294,20 +294,12 @@ A standardized way for AI models to interact with external tools and data source
 
 | Use Case | Model | Temperature |
 |----------|-------|-------------|
-| Classification | GPT-4o-mini | 0.0-0.2 |
-| Customer Support | Claude 3.5 Sonnet | 0.3-0.5 |
-| Content Generation | GPT-4o | 0.7-0.9 |
-| Code Generation | Claude 3.5 Sonnet | 0.2-0.4 |
-| Research/Analysis | GPT-4o | 0.3-0.5 |
-| Creative Writing | Claude 3.5 Sonnet | 0.8-1.0 |
+| Classification | Geminin 3    | 0.0-0.2 |
+| Customer Support | Gemini 3  | 0.3-0.5 |
+| Content Generation | GPT-4o, 5 | 0.7-0.9 |
+| Code Generation | Claude 4.5 Opus | 0.2-0.4 |
+| Research/Analysis | Gemini 3 | 0.3-0.5 |
 
-### Cost Optimization
-```markdown
-1. Use GPT-4o-mini for simple tasks (10x cheaper)
-2. Cache frequent queries
-3. Limit context window size
-4. Use streaming for long responses
-5. Batch similar requests when possible
 ```
 
 ---
